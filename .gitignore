@@ -1,5 +1,5 @@
 # Отладочный журнал npm
-npm-debug.log*
+.log*
 # Зависимость проекта 
 node_modules
 #Атрибуты папки OSX
